@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rumaisanaveed&label=Profile%20views&color=0e75b6&style=flat" alt="rumaisanaveed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumaisanaveed" alt="rumaisanaveed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/its_me_rumi" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_rumi?logo=twitter&style=for-the-badge" alt="its_me_rumi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **backend web development**
 
@@ -13,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/its_me_rumi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_rumi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rumaisa naved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rumaisa naved" height="30" width="40" /></a>
 <a href="https://fb.com/rumaisa naved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rumaisa naved" height="30" width="40" /></a>
 <a href="https://instagram.com/rumaisa_naved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rumaisa_naved" height="30" width="40" /></a>
@@ -29,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumaisanaveed&show_icons=true&locale=en" alt="rumaisanaveed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumaisanaveed&" alt="rumaisanaveed" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumaisanaveed" alt="rumaisanaveed" /></a> </p>
+
