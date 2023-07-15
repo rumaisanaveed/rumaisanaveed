@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumaisanaveed&" alt="rumaisanaveed" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rumaisanaveed" alt="rumaisanaveed" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><br><img src="https://github-profile-trophy.vercel.app/?username=rumaisanaveed" alt="rumaisanaveed" /></a> </p>
 
