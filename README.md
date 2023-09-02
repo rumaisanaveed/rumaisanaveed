@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently specializing into **frontend web development**
 
-- I'm currently working on my side project which is **e-commerce application using react js**
+- ✨ I'm currently working on my side project which is **e-commerce application using react js**
 
-- 📫 How to reach me **https://rumaisanaved@gmail.com**
+- 📫 How to reach me **rumaisanaved@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
