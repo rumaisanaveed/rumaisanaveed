@@ -1,4 +1,4 @@
-# Hi, I'm Rumaisa Naveed
+# Hey 👋🏻 I'm Rumaisa Naveed
 
 I'm a **Frontend Developer** passionate about combining technical knowledge with design to create beautiful and efficient applications. I specialize in **React**, **TypeScript**, **Next.js**, and **Tailwind CSS**.
 
