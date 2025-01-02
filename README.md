@@ -1,9 +1,8 @@
 # Hey 👋🏻 I'm Rumaisa Naveed
 
 ## About Me 😇
-I'm a **Frontend Developer** passionate about combining technical knowledge with design to create beautiful and efficient applications. I specialize in **React**, **TypeScript**, **Next.js**, and **Tailwind CSS**.
-
-I'm always striving to build scalable software while delivering engaging user experiences. 
+I'm a **Software Engineer** passionate about learning something new every day, and I’m ready to contribute to a great team where I can grow both professionally and personally.
+I'm currently learning **React Native** so I can build my own apps (yay)!
 
 ## My Portfolio 🚀
 You can check out my portfolio at [rumaisa.netlify.app](https://rumaisa.netlify.app).
@@ -15,8 +14,9 @@ I also write blogs in my free time to share my learnings about tech, I also shar
 Check out my latest here: 
 [Latest Article](https://rumaisanaveed.hashnode.dev/how-to-prepare-for-technical-interviews-a-detailed-guide-for-big-companies-and-startups)
 
-### Fun Facts 🤔
-- I don't like coffee or tea as most programmers do.
+### Some Facts about Me 🤔
+- I don't like **coffee** or **tea** as most programmers do.
+- I also read **articles** in my free time to grow both as a **person and as an engineer. **
 - I enjoy **watching netflix series** in my free time.
 
 Feel free to reach out to me at rumaisanaved@gmail.com or explore my repositories here on GitHub. 
