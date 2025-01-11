@@ -12,7 +12,7 @@ I also write blogs in my free time to share my learnings about tech, I also shar
 [Rumaisa's Blogs](https://rumaisanaveed.hashnode.dev/).
 
 Check out my latest here: 
-[Latest Article](https://rumaisanaveed.hashnode.dev/how-to-prepare-for-technical-interviews-a-detailed-guide-for-big-companies-and-startups)
+[Latest Article](https://rumaisanaveed.hashnode.dev/how-to-add-a-good-readme-in-your-github-projects)
 
 ### Some Facts about Me 🤔
 - I don't like **coffee** or **tea** as most programmers do.
