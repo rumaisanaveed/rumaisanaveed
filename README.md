@@ -16,7 +16,7 @@ Check out my latest here:
 
 ### Some Facts about Me 🤔
 - I don't like **coffee** or **tea** as most programmers do.
-- I also read **articles** in my free time to grow both as a **person and as an engineer. **
+- I also read **articles** in my free time to grow both as a **person and as an engineer.**
 - I enjoy **watching netflix series** in my free time.
 
 Feel free to reach out to me at rumaisanaved@gmail.com or explore my repositories here on GitHub. 
