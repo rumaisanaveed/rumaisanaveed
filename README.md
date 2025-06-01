@@ -7,7 +7,7 @@ I'm a **Software Engineer** passionate about learning something new every day. M
 I work across both frontend and backend, but my area of interest is frontend. I specialize in React.js, Next.js, API Integration, Tailwind CSS, and more.  
 
 ## My Portfolio 🚀  
-I also have a portfolio, and you can check it out here: [rumaisa.netlify.app](https://rumaisa.netlify.app).  
+I also have a portfolio, and you can check it out here: [rumaisa-bento-portfolio](https://rumaisa-bento-portfolio.netlify.app/).  
 
 ## My Blog ✍🏻  
 Well, I'm also a writer. I love to document everything whenever I learn something new. I write articles in my free time to share my learnings about tech. I also share insights about my personal and professional journey. I write articles on both Hashnode and CoderLegion.
