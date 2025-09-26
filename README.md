@@ -4,7 +4,7 @@
 I’m a **Software Engineer** and a final-year student pursuing a **Bachelor’s in Software Engineering** from **UBIT (Department of Computer Science)**. Currently, I’m developing my Final Year Project while also working a job. I love learning something new every day. I am a problem solver, a deep thinker, and a passionate builder who enjoys turning ideas into reality.
 
 ## Experience
-I'm currently working at [KoderLabs](https://www.koderlabs.com/) with an amazing team. And, my roles and responsibilities includes developing web & mobile applications using React.js and React Native.
+I'm currently working as an **Associate Software Engineer** at [KoderLabs](https://www.koderlabs.com/) with an amazing team. And, my roles and responsibilities includes developing web & mobile applications using **React.js and React Native**.
 
 ## Tech Stack  
 I work across frontend because that's what excites me the most. I love to develop web & mobile applications using React.js, Next.js & React Native. (The tech stack doesn't matter as I'm a quick leaner).
