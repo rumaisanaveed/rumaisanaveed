@@ -1,7 +1,7 @@
 # Hey 👋🏻 
 
 ## About Me 😇
-I’m a **Software Engineer** and a **Software Engineering Graduate** from **UBIT (Department of Computer Science)**. I love learning something new every day. I am a problem solver, a deep thinker, and a passionate builder who enjoys turning ideas into reality.
+I’m a **Software Engineering Graduate** from **UBIT (Department of Computer Science)**. I love learning something new every day. I am a problem solver, a deep thinker, and a passionate builder who enjoys turning ideas into reality.
 
 ## Experience
 I'm currently working as an **Associate Software Engineer** at [KoderLabs](https://www.koderlabs.com/) with an amazing team. And, my roles and responsibilities includes developing web & mobile applications using **React.js and React Native**.
