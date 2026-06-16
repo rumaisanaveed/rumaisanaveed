@@ -27,7 +27,7 @@ Do check my Hashnode Blog here:
 Check out my latest article on CoderLegion here:  
 [Latest Article](https://coderlegion.com/877/mistakes-i-made-in-my-software-engineering-career)  
 
-### Some Fun/Not Fun Facts About Me 🤔  
+### A little more about me 🤔  
 - I enjoy debugging my code at 3 AM (and sometimes even later).
 - I'm a full-time overthinker too, besides being a software engineer.
 - I like solving problems that require deep thinking.
